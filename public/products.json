@@ -1,0 +1,1813 @@
+{
+    "offer": [
+        {
+            "offerScope": {
+                "scope": "National"
+            },
+            "additionalImageUrl": null,
+            "brand": {
+                "name": "DANONE",
+                "description": "DANONE",
+                "id": 185822
+            },
+            "couponTemplate": null,
+            "coupons": {
+                "serials": {
+                    "custom": false
+                }
+            },
+            "created": "2021-07-30T09:53:31.000Z",
+            "currency": "EUR",
+            "customerCoBrandImage": null,
+            "discount": {
+                "percent": "",
+                "m": "",
+                "n": "",
+                "customSVS": ""
+            },
+            "displayName": "Ofertia Cashback Danone",
+            "displayValue": "1,00 €",
+            "endOn": "2021-12-30T23:00:00.000Z",
+            "estimatedRedemptionRate": 0,
+            "globalLimit": 10000,
+            "gpc": {
+                "segment": "50000000",
+                "family": "50130000",
+                "class": "50132100",
+                "brick": "10000278"
+            },
+            "imageUrl": null,
+            "imageUrlCanvas": null,
+            "imageUrlCoupon": null,
+            "imageUrlWallet": null,
+            "individualLimit": 10,
+            "lastModifiedOn": "2021-11-18T15:27:14.000Z",
+            "offerProvider": {
+                "name": "VALASSIS COMMUNICATIONS",
+                "id": 184555
+            },
+            "pageImage": null,
+            "printProviderLogoImage": null,
+            "productInformation": null,
+            "purchaseDescription": null,
+            "questionnaire": {
+                "consumerID": {},
+                "duplicateChecks": [
+                    "receiptID",
+                    "receiptImage"
+                ],
+                "proofs_of_purchase": {}
+            },
+            "remoteOfferId": "10860C1987",
+            "renewableLimit": null,
+            "requiredPurchaseQuantity": 1,
+            "requiredPurchaseValue": null,
+            "rollingEndDateNumber": 0,
+            "providerOfferCode": null,
+            "savingsValueStatement": "<span class=\"svsValue\">1,00</span> <span class=\"svsCurrencySymbol\">€</span>",
+            "savingsValueWatermark": null,
+            "siteExpiryOn": "2021-12-30T23:00:00.000Z",
+            "soldOut": false,
+            "startOn": "2021-06-30T22:00:00.000Z",
+            "successfulPrints": 1,
+            "templateFonts": null,
+            "valassisOfferId": 115874,
+            "value": 100,
+            "transactions": {
+                "serials": {
+                    "ean13": false,
+                    "custom": false
+                }
+            },
+            "offerDistributions": {
+                "offerDistribution": [
+                    {
+                        "gs1": "0000000000000",
+                        "offerDistributionType": "BarcodeSettlementOffer"
+                    },
+                    {
+                        "offerDistributionType": "Cashback",
+                        "payment": {
+                            "bankData": {
+                                "target": "bankData"
+                            },
+                            "address": {
+                                "target": "address"
+                            },
+                            "name": {
+                                "target": "name"
+                            },
+                            "purchasePrice": {
+                                "target": "purchasePrice",
+                                "type": "purchasePrice"
+                            },
+                            "comment": {
+                                "target": "comment",
+                                "type": "string"
+                            },
+                            "extra_refund": 100
+                        }
+                    }
+                ]
+            },
+            "offerProductCategories": {
+                "offerProductCategory": [
+                    {
+                        "id": 187202,
+                        "name": "ALIMENTACIÓN SECA"
+                    }
+                ]
+            },
+            "products": [
+                "8410500009199",
+                "8410500009205",
+                "8410500009410",
+                "8410500009885",
+                "8410500010133",
+                "8410500010973",
+                "8410500011352",
+                "8410500013073",
+                "8410500013417",
+                "8410500014322",
+                "8410500018016",
+                "8410500018023"
+            ],
+            "limit": {
+                "global": {
+                    "quantity": 10000
+                },
+                "individual": {
+                    "quantity": 10
+                }
+            },
+            "digitalDistribution": true,
+            "couponsStat": {
+                "pending": 5,
+                "closed": 0,
+                "redeemed": 0,
+                "revoked": 0,
+                "incomplete": 0,
+                "inquired": 0,
+                "expired": 0
+            },
+            "redemptionPotentialValue": 0,
+            "state": "Active"
+        },
+        {
+            "offerScope": {
+                "scope": "National"
+            },
+            "additionalImageUrl": null,
+            "brand": {
+                "name": "EKO",
+                "id": 186071
+            },
+            "couponTemplate": null,
+            "coupons": {
+                "serials": {
+                    "custom": false
+                }
+            },
+            "created": "2021-07-30T10:00:39.000Z",
+            "currency": "EUR",
+            "customerCoBrandImage": null,
+            "discount": {
+                "percent": "",
+                "m": "",
+                "n": "",
+                "customSVS": ""
+            },
+            "displayName": "Ofertia Cashback Eko",
+            "displayValue": "3,00 €",
+            "endOn": "2021-12-30T23:00:00.000Z",
+            "estimatedRedemptionRate": 0,
+            "globalLimit": 10000,
+            "gpc": {
+                "segment": "50000000",
+                "family": "50200000",
+                "class": "50201700",
+                "brick": "10006311"
+            },
+            "imageUrl": null,
+            "imageUrlCanvas": null,
+            "imageUrlCoupon": null,
+            "imageUrlWallet": null,
+            "individualLimit": 10,
+            "lastModifiedOn": "2021-11-18T15:28:51.000Z",
+            "offerProvider": {
+                "name": "VALASSIS COMMUNICATIONS",
+                "id": 184555
+            },
+            "pageImage": null,
+            "printProviderLogoImage": null,
+            "productInformation": null,
+            "purchaseDescription": null,
+            "questionnaire": {
+                "consumerID": {},
+                "proofs_of_purchase": {},
+                "duplicateChecks": [
+                    "receiptID",
+                    "receiptImage"
+                ]
+            },
+            "remoteOfferId": "10860C1986",
+            "renewableLimit": null,
+            "requiredPurchaseQuantity": 1,
+            "requiredPurchaseValue": null,
+            "rollingEndDateNumber": 0,
+            "providerOfferCode": null,
+            "savingsValueStatement": "<span class=\"svsValue\">3,00</span> <span class=\"svsCurrencySymbol\">€</span>",
+            "savingsValueWatermark": null,
+            "siteExpiryOn": "2021-12-30T23:00:00.000Z",
+            "soldOut": false,
+            "startOn": "2021-06-30T22:00:00.000Z",
+            "successfulPrints": 1,
+            "templateFonts": null,
+            "valassisOfferId": 115880,
+            "value": 300,
+            "transactions": {
+                "serials": {
+                    "ean13": false,
+                    "custom": false
+                }
+            },
+            "offerDistributions": {
+                "offerDistribution": [
+                    {
+                        "gs1": "0000000000000",
+                        "offerDistributionType": "BarcodeSettlementOffer"
+                    },
+                    {
+                        "offerDistributionType": "Cashback",
+                        "payment": {
+                            "bankData": {
+                                "target": "bankData"
+                            },
+                            "address": {
+                                "target": "address"
+                            },
+                            "name": {
+                                "target": "name"
+                            },
+                            "purchasePrice": {
+                                "target": "purchasePrice",
+                                "type": "purchasePrice"
+                            },
+                            "comment": {
+                                "target": "comment",
+                                "type": "string"
+                            },
+                            "extra_refund": 300
+                        }
+                    }
+                ]
+            },
+            "offerProductCategories": {
+                "offerProductCategory": [
+                    {
+                        "id": 187202,
+                        "name": "ALIMENTACIÓN SECA"
+                    }
+                ]
+            },
+            "products": [
+                "7613032371722",
+                "7613034328908",
+                "7613035591066",
+                "8410100022154",
+                "8410100022178",
+                "8410100022192",
+                "8410100022208",
+                "8410100022307",
+                "8410100022574",
+                "8410100022581"
+            ],
+            "limit": {
+                "global": {
+                    "quantity": 10000
+                },
+                "individual": {
+                    "quantity": 10
+                }
+            },
+            "digitalDistribution": true,
+            "couponsStat": {
+                "pending": 17,
+                "closed": 0,
+                "redeemed": 0,
+                "revoked": 0,
+                "incomplete": 0,
+                "inquired": 0,
+                "expired": 0
+            },
+            "redemptionPotentialValue": 0,
+            "state": "Active"
+        },
+        {
+            "offerScope": {
+                "scope": "National"
+            },
+            "additionalImageUrl": null,
+            "brand": {
+                "name": "Quaker",
+                "id": 178691
+            },
+            "couponTemplate": null,
+            "coupons": {
+                "serials": {
+                    "custom": false
+                }
+            },
+            "created": "2021-09-30T12:37:44.000Z",
+            "currency": "EUR",
+            "customerCoBrandImage": null,
+            "discount": {
+                "percent": "",
+                "m": "",
+                "n": "",
+                "customSVS": "",
+                "maxTimes": ""
+            },
+            "displayName": "Ofertia Quaker",
+            "displayValue": "2,95 €",
+            "endOn": "2022-12-30T23:00:00.000Z",
+            "estimatedRedemptionRate": 0,
+            "globalLimit": 10000,
+            "gpc": {
+                "segment": "50000000",
+                "family": "50220000",
+                "class": "50221200",
+                "brick": "10000287"
+            },
+            "imageUrl": "https://dev.valassis.eu/media/spain/Quaker_promo/89e98ee636d2b3c49bc828de4d12958f.png",
+            "imageUrlCanvas": null,
+            "imageUrlCoupon": null,
+            "imageUrlWallet": null,
+            "individualLimit": 1,
+            "lastModifiedOn": "2021-11-18T15:26:52.000Z",
+            "offerProvider": {
+                "name": "PEPSICO FOODS, A.I.E.",
+                "id": 184292
+            },
+            "pageImage": null,
+            "printProviderLogoImage": null,
+            "productInformation": null,
+            "purchaseDescription": "Oferta test descuento Quaker para Ofertia",
+            "questionnaire": {
+                "consumerID": {},
+                "proofs_of_purchase": {},
+                "duplicateChecks": [
+                    "receiptID",
+                    "receiptImage"
+                ]
+            },
+            "remoteOfferId": "14504C1800",
+            "renewableLimit": null,
+            "requiredPurchaseQuantity": 1,
+            "requiredPurchaseValue": null,
+            "rollingEndDateNumber": 0,
+            "providerOfferCode": null,
+            "savingsValueStatement": "<span class=\"svsValue\">2,95</span> <span class=\"svsCurrencySymbol\">€</span>",
+            "savingsValueWatermark": null,
+            "siteExpiryOn": "2022-12-30T23:00:00.000Z",
+            "soldOut": false,
+            "startOn": "2021-09-29T22:00:00.000Z",
+            "successfulPrints": 0,
+            "templateFonts": null,
+            "valassisOfferId": 120354,
+            "value": 295,
+            "transactions": {
+                "serials": {
+                    "ean13": false,
+                    "custom": false
+                }
+            },
+            "offerDistributions": {
+                "offerDistribution": [
+                    {
+                        "gs1": "0200000000462",
+                        "offerDistributionType": "BarcodeSettlementOffer"
+                    },
+                    {
+                        "offerDistributionType": "Cashback",
+                        "payment": {
+                            "bankData": {
+                                "target": "bankData"
+                            },
+                            "address": {
+                                "target": "address"
+                            },
+                            "name": {
+                                "target": "name"
+                            },
+                            "purchasePrice": {
+                                "target": "purchasePrice",
+                                "type": "purchasePrice"
+                            },
+                            "comment": {
+                                "target": "comment",
+                                "type": "string"
+                            }
+                        }
+                    }
+                ]
+            },
+            "offerProductCategories": {
+                "offerProductCategory": [
+                    {
+                        "id": 217,
+                        "name": "Alimentación",
+                        "description": "",
+                        "parentid": 0
+                    }
+                ]
+            },
+            "products": [
+                "5000108666479",
+                "5000108667421",
+                "5000108671633"
+            ],
+            "limit": {
+                "global": {
+                    "quantity": 10000
+                },
+                "individual": {
+                    "quantity": 1
+                }
+            },
+            "digitalDistribution": true,
+            "couponsStat": {
+                "pending": 1,
+                "closed": 0,
+                "redeemed": 0,
+                "revoked": 0,
+                "incomplete": 0,
+                "inquired": 0,
+                "expired": 0
+            },
+            "redemptionPotentialValue": 0,
+            "state": "Active"
+        },
+        {
+            "offerScope": {
+                "scope": "National"
+            },
+            "additionalImageUrl": null,
+            "brand": {
+                "name": "DIXAN",
+                "id": 186092
+            },
+            "couponTemplate": null,
+            "coupons": {
+                "serials": {
+                    "custom": false
+                }
+            },
+            "created": "2021-11-18T12:30:28.000Z",
+            "currency": "EUR",
+            "customerCoBrandImage": null,
+            "discount": {
+                "percent": "",
+                "m": "",
+                "n": "",
+                "customSVS": "",
+                "maxTimes": ""
+            },
+            "displayName": "Ofertia Dixan Gel o cápsulas",
+            "displayValue": "1,00 €",
+            "endOn": "2021-12-30T23:00:00.000Z",
+            "estimatedRedemptionRate": 0,
+            "globalLimit": 10000,
+            "gpc": {
+                "segment": "47000000",
+                "family": "47100000",
+                "class": "47101700",
+                "brick": "10000424"
+            },
+            "imageUrl": "https://dev.valassis.eu/media/spain/Dixan/f0ab57a493596b231da48c07d7ac9dd5.png",
+            "imageUrlCanvas": null,
+            "imageUrlCoupon": null,
+            "imageUrlWallet": null,
+            "individualLimit": 2,
+            "lastModifiedOn": "2021-11-18T15:26:31.000Z",
+            "offerProvider": {
+                "name": "HENKEL IBERICA, S.A.",
+                "clientCode": "030",
+                "description": "030 - HENKEL IBERICA, S.A.",
+                "id": 3293
+            },
+            "pageImage": null,
+            "printProviderLogoImage": null,
+            "productInformation": null,
+            "purchaseDescription": "descuento Dixan Gel o cápsulas test OFERTIA",
+            "questionnaire": {
+                "consumerID": {},
+                "duplicateChecks": [
+                    "receiptID",
+                    "receiptImage"
+                ],
+                "proofs_of_purchase": {}
+            },
+            "remoteOfferId": "65876",
+            "renewableLimit": null,
+            "requiredPurchaseQuantity": 1,
+            "requiredPurchaseValue": null,
+            "rollingEndDateNumber": 0,
+            "providerOfferCode": null,
+            "savingsValueStatement": "<span class=\"svsValue\">1,00</span> <span class=\"svsCurrencySymbol\">€</span>",
+            "savingsValueWatermark": null,
+            "siteExpiryOn": "2021-12-30T23:00:00.000Z",
+            "soldOut": false,
+            "startOn": "2021-11-17T23:00:00.000Z",
+            "successfulPrints": 0,
+            "templateFonts": null,
+            "valassisOfferId": 125862,
+            "value": 100,
+            "transactions": {
+                "serials": {
+                    "ean13": false,
+                    "custom": false
+                }
+            },
+            "offerDistributions": {
+                "offerDistribution": [
+                    {
+                        "gs1": "0200000000783",
+                        "offerDistributionType": "BarcodeSettlementOffer"
+                    },
+                    {
+                        "offerDistributionType": "Cashback",
+                        "payment": {
+                            "bankData": {
+                                "target": "bankData"
+                            },
+                            "address": {
+                                "target": "address"
+                            },
+                            "name": {
+                                "target": "name"
+                            },
+                            "purchasePrice": {
+                                "target": "purchasePrice",
+                                "type": "purchasePrice"
+                            },
+                            "comment": {
+                                "target": "comment",
+                                "type": "string"
+                            }
+                        }
+                    }
+                ]
+            },
+            "offerProductCategories": {
+                "offerProductCategory": [
+                    {
+                        "id": 68,
+                        "name": "DROGUERIA Y LIMPIEZA",
+                        "description": "",
+                        "parentid": 0
+                    }
+                ]
+            },
+            "products": [
+                "8410436286459",
+                "8410436286480",
+                "8410436286510",
+                "8410436302180",
+                "8410436309950",
+                "8410436310260",
+                "8410436310321",
+                "8410436313100",
+                "8410436315722",
+                "8410436315906",
+                "8410436316200"
+            ],
+            "limit": {
+                "global": {
+                    "quantity": 10000
+                },
+                "individual": {
+                    "quantity": 2
+                }
+            },
+            "digitalDistribution": true,
+            "couponsStat": {
+                "pending": 0,
+                "closed": 0,
+                "redeemed": 0,
+                "revoked": 0,
+                "incomplete": 0,
+                "inquired": 0,
+                "expired": 0
+            },
+            "redemptionPotentialValue": 0,
+            "state": "Active"
+        },
+        {
+            "offerScope": {
+                "scope": "National"
+            },
+            "additionalImageUrl": null,
+            "brand": {
+                "name": "SOMAT",
+                "id": 186056
+            },
+            "couponTemplate": null,
+            "coupons": {
+                "serials": {
+                    "custom": false
+                }
+            },
+            "created": "2021-11-18T14:55:58.000Z",
+            "currency": "EUR",
+            "customerCoBrandImage": null,
+            "discount": {
+                "percent": "",
+                "m": "",
+                "n": "",
+                "customSVS": "",
+                "maxTimes": ""
+            },
+            "displayName": "Ofertia Lavavajillas Somat Gel o tabletas",
+            "displayValue": "2,50 €",
+            "endOn": "2021-12-30T23:00:00.000Z",
+            "estimatedRedemptionRate": 0,
+            "globalLimit": 100000,
+            "gpc": {
+                "segment": "47000000",
+                "family": "47100000",
+                "class": "47101600",
+                "brick": "10000406"
+            },
+            "imageUrl": "https://dev.valassis.eu/media/spain/Somat/81513cd99086f3b98a436e7302090dcc.png",
+            "imageUrlCanvas": null,
+            "imageUrlCoupon": null,
+            "imageUrlWallet": null,
+            "individualLimit": 2,
+            "lastModifiedOn": "2021-11-18T15:07:56.000Z",
+            "offerProvider": {
+                "name": "HENKEL IBERICA, S.A.",
+                "clientCode": "030",
+                "description": "030 - HENKEL IBERICA, S.A.",
+                "id": 3293
+            },
+            "pageImage": null,
+            "printProviderLogoImage": null,
+            "productInformation": null,
+            "purchaseDescription": null,
+            "questionnaire": {
+                "consumerID": {},
+                "proofs_of_purchase": {},
+                "duplicateChecks": [
+                    "receiptID",
+                    "receiptImage"
+                ]
+            },
+            "remoteOfferId": "65879",
+            "renewableLimit": null,
+            "requiredPurchaseQuantity": 1,
+            "requiredPurchaseValue": null,
+            "rollingEndDateNumber": 0,
+            "providerOfferCode": null,
+            "savingsValueStatement": "<span class=\"svsValue\">2,50</span> <span class=\"svsCurrencySymbol\">€</span>",
+            "savingsValueWatermark": null,
+            "siteExpiryOn": "2021-12-30T23:00:00.000Z",
+            "soldOut": false,
+            "startOn": "2021-11-17T23:00:00.000Z",
+            "successfulPrints": 0,
+            "templateFonts": null,
+            "valassisOfferId": 125926,
+            "value": 250,
+            "transactions": {
+                "serials": {
+                    "ean13": false,
+                    "custom": false
+                }
+            },
+            "offerDistributions": {
+                "offerDistribution": [
+                    {
+                        "gs1": "0200000000790",
+                        "offerDistributionType": "BarcodeSettlementOffer"
+                    },
+                    {
+                        "offerDistributionType": "Cashback",
+                        "payment": {
+                            "bankData": {
+                                "target": "bankData"
+                            },
+                            "address": {
+                                "target": "address"
+                            },
+                            "name": {
+                                "target": "name"
+                            },
+                            "purchasePrice": {
+                                "target": "purchasePrice",
+                                "type": "purchasePrice"
+                            },
+                            "comment": {
+                                "target": "comment",
+                                "type": "string"
+                            }
+                        }
+                    }
+                ]
+            },
+            "offerProductCategories": {
+                "offerProductCategory": [
+                    {
+                        "id": 68,
+                        "name": "DROGUERIA Y LIMPIEZA",
+                        "description": "",
+                        "parentid": 0
+                    }
+                ]
+            },
+            "products": [
+                "4015000309349",
+                "4015000311694",
+                "8410436149099",
+                "8410436149129",
+                "8410436149150",
+                "8410436149198",
+                "8410436149488",
+                "8410436150545",
+                "8410436150552",
+                "8410436150576",
+                "8410436150606",
+                "8410436150668",
+                "8410436150842",
+                "8410436154260",
+                "8410436155649",
+                "8410436155670",
+                "8410436157407",
+                "8410436160636",
+                "8410436168359",
+                "8410436168366",
+                "8410436168380",
+                "8410436168397",
+                "8410436168724",
+                "8410436176026",
+                "8410436176057",
+                "8410436178303",
+                "8410436186643",
+                "8410436190831",
+                "8410436192231",
+                "8410436192347",
+                "8410436193610",
+                "8410436193801",
+                "8410436195379",
+                "8410436206655",
+                "8410436206884",
+                "8410436211987",
+                "8410436212885",
+                "8410436212946",
+                "8410436214674",
+                "8410436214735",
+                "8410436214865",
+                "8410436219488",
+                "8410436220620",
+                "8410436220637",
+                "8410436226509",
+                "8410436227919",
+                "8410436227940",
+                "8410436228077",
+                "8410436228497",
+                "8410436228527",
+                "8410436228640",
+                "8410436228671",
+                "8410436230889",
+                "8410436231664",
+                "8410436231695",
+                "8410436232807",
+                "8410436232845",
+                "8410436236317",
+                "8410436247085",
+                "8410436247542",
+                "8410436248020",
+                "8410436249645",
+                "8410436256827",
+                "8410436256872",
+                "8410436257077",
+                "8410436257503",
+                "8410436257541",
+                "8410436257572",
+                "8410436260428",
+                "8410436266888",
+                "8410436266918",
+                "8410436270489",
+                "8410436275071",
+                "8410436279314",
+                "8410436279437",
+                "8410436283328",
+                "8410436283410",
+                "8410436291194",
+                "8410436292849",
+                "8410436294386",
+                "8410436294553",
+                "8410436295208",
+                "8410436295567",
+                "8410436298506",
+                "8410436302548",
+                "8410436304436",
+                "8410436305143",
+                "8410436305174",
+                "8410436315753",
+                "8410436315784",
+                "8410436318396",
+                "8410436318426",
+                "8410436318457",
+                "8410436318488",
+                "8410436318518",
+                "8410436318549",
+                "8410436320030",
+                "8410436320122",
+                "8410436320672",
+                "8410436320702",
+                "8410436320733",
+                "8410436320764",
+                "8410436320795",
+                "8410436320825",
+                "8410436321846",
+                "8410436322133",
+                "8410436322195",
+                "8410436322225",
+                "8410436322263",
+                "8410436322294",
+                "8410436322324",
+                "8410436323048",
+                "8410436325790",
+                "8410436327534",
+                "8410436328210",
+                "8410436328463",
+                "8410436328647",
+                "8410436330145",
+                "8410436334099",
+                "8410436334150",
+                "8410436334181",
+                "9000100903790",
+                "9910020013007"
+            ],
+            "limit": {
+                "global": {
+                    "quantity": 100000
+                },
+                "individual": {
+                    "quantity": 2
+                }
+            },
+            "digitalDistribution": true,
+            "couponsStat": {
+                "pending": 0,
+                "closed": 0,
+                "redeemed": 0,
+                "revoked": 0,
+                "incomplete": 0,
+                "inquired": 0,
+                "expired": 0
+            },
+            "redemptionPotentialValue": 0,
+            "state": "Active"
+        },
+        {
+            "offerScope": {
+                "scope": "National"
+            },
+            "additionalImageUrl": null,
+            "brand": {
+                "name": "TENN STD",
+                "id": 186157
+            },
+            "couponTemplate": null,
+            "coupons": {
+                "serials": {
+                    "custom": false
+                }
+            },
+            "created": "2021-11-18T15:35:53.000Z",
+            "currency": "EUR",
+            "customerCoBrandImage": null,
+            "discount": {
+                "percent": "",
+                "m": "",
+                "n": "",
+                "customSVS": "",
+                "maxTimes": ""
+            },
+            "displayName": "Ofertia Tenn Brillante",
+            "displayValue": "0,75 €",
+            "endOn": "2021-12-30T23:00:00.000Z",
+            "estimatedRedemptionRate": 0,
+            "globalLimit": 100000,
+            "gpc": {
+                "segment": "47000000",
+                "family": "47100000",
+                "class": "47101600",
+                "brick": "10000405",
+                "attributes": []
+            },
+            "imageUrl": "https://dev.valassis.eu/media/spain/Tenn%20Brillante/6ff80763eb2a6a1890ff088582ca96a3.png",
+            "imageUrlCanvas": null,
+            "imageUrlCoupon": null,
+            "imageUrlWallet": null,
+            "individualLimit": 2,
+            "lastModifiedOn": "2021-11-19T11:50:59.000Z",
+            "offerProvider": {
+                "name": "HENKEL IBERICA, S.A.",
+                "clientCode": "030",
+                "description": "030 - HENKEL IBERICA, S.A.",
+                "id": 3293
+            },
+            "pageImage": null,
+            "printProviderLogoImage": null,
+            "productInformation": null,
+            "purchaseDescription": "Cashback Ofertia Tenn Brillante",
+            "questionnaire": {
+                "consumerID": {},
+                "proofs_of_purchase": {},
+                "duplicateChecks": [
+                    "receiptID",
+                    "receiptImage"
+                ]
+            },
+            "remoteOfferId": "65878",
+            "renewableLimit": null,
+            "requiredPurchaseQuantity": 1,
+            "requiredPurchaseValue": null,
+            "rollingEndDateNumber": 0,
+            "providerOfferCode": null,
+            "savingsValueStatement": "<span class=\"svsValue\">0,75</span> <span class=\"svsCurrencySymbol\">€</span>",
+            "savingsValueWatermark": null,
+            "siteExpiryOn": "2021-12-30T23:00:00.000Z",
+            "soldOut": false,
+            "startOn": "2021-11-17T23:00:00.000Z",
+            "successfulPrints": 0,
+            "templateFonts": null,
+            "valassisOfferId": 125940,
+            "value": 75,
+            "transactions": {
+                "serials": {
+                    "ean13": false,
+                    "custom": false
+                }
+            },
+            "offerDistributions": {
+                "offerDistribution": [
+                    {
+                        "gs1": "0200000000806",
+                        "offerDistributionType": "BarcodeSettlementOffer"
+                    },
+                    {
+                        "offerDistributionType": "Cashback",
+                        "payment": {
+                            "bankData": {
+                                "target": "bankData"
+                            },
+                            "address": {
+                                "target": "address"
+                            },
+                            "name": {
+                                "target": "name"
+                            },
+                            "purchasePrice": {
+                                "target": "purchasePrice",
+                                "type": "purchasePrice"
+                            },
+                            "comment": {
+                                "target": "comment",
+                                "type": "string"
+                            }
+                        }
+                    }
+                ]
+            },
+            "offerProductCategories": {
+                "offerProductCategory": [
+                    {
+                        "id": 68,
+                        "name": "DROGUERIA Y LIMPIEZA",
+                        "description": "",
+                        "parentid": 0
+                    }
+                ]
+            },
+            "products": [
+                "5011321838314",
+                "5410076481453",
+                "5410076483860",
+                "5410076527021",
+                "5410076527540",
+                "8410020374203",
+                "8410020378621",
+                "8410020383120",
+                "8410436078672",
+                "8410436081146",
+                "8410436081207",
+                "8410436114486",
+                "8410436136532",
+                "8410436150965",
+                "8410436153256",
+                "8410436161992",
+                "8410436162296",
+                "8410436172936",
+                "8410436179522",
+                "8410436179911",
+                "8410436179980",
+                "8410436241472",
+                "8410436241748",
+                "8410436244725",
+                "8410436260411",
+                "8410436282277",
+                "8410436294027",
+                "8410436294058",
+                "8410436294089",
+                "8410436317672",
+                "8410436317702",
+                "8410436317733"
+            ],
+            "limit": {
+                "global": {
+                    "quantity": 100000
+                },
+                "individual": {
+                    "quantity": 2
+                }
+            },
+            "digitalDistribution": true,
+            "couponsStat": {
+                "pending": 0,
+                "closed": 0,
+                "redeemed": 0,
+                "revoked": 0,
+                "incomplete": 0,
+                "inquired": 0,
+                "expired": 0
+            },
+            "redemptionPotentialValue": 0,
+            "state": "Active"
+        },
+        {
+            "offerScope": {
+                "scope": "National"
+            },
+            "additionalImageUrl": null,
+            "brand": {
+                "name": "LEJIA NEUTREX",
+                "id": 186151
+            },
+            "couponTemplate": null,
+            "coupons": {
+                "serials": {
+                    "custom": false
+                }
+            },
+            "created": "2021-11-18T15:44:02.000Z",
+            "currency": "GBP",
+            "customerCoBrandImage": null,
+            "discount": {
+                "percent": "",
+                "m": "",
+                "n": "",
+                "customSVS": "",
+                "maxTimes": ""
+            },
+            "displayName": "Ofertia Pastillas efecto lejía Estrella o Neutrex",
+            "displayValue": "0,75 €",
+            "endOn": "2021-12-30T23:00:00.000Z",
+            "estimatedRedemptionRate": 0,
+            "globalLimit": 100000,
+            "gpc": {
+                "segment": "47000000",
+                "family": "47100000",
+                "class": "47101600",
+                "brick": "10000531",
+                "attributes": []
+            },
+            "imageUrl": "https://dev.valassis.eu/media/spain/Estrella%20y%20Neutrex%20pastillas/674063c193414b461730f874f3c49296.png",
+            "imageUrlCanvas": null,
+            "imageUrlCoupon": null,
+            "imageUrlWallet": null,
+            "individualLimit": 2,
+            "lastModifiedOn": "2021-11-18T15:44:02.000Z",
+            "offerProvider": {
+                "name": "HENKEL IBERICA, S.A.",
+                "clientCode": "030",
+                "description": "030 - HENKEL IBERICA, S.A.",
+                "id": 3293
+            },
+            "pageImage": null,
+            "printProviderLogoImage": null,
+            "productInformation": null,
+            "purchaseDescription": "Ofertia Pastillas efecto lejía Estrella o Neutrex Cashback",
+            "questionnaire": {
+                "consumerID": {},
+                "proofs_of_purchase": {},
+                "duplicateChecks": [
+                    "receiptID",
+                    "receiptImage"
+                ]
+            },
+            "remoteOfferId": "65883",
+            "renewableLimit": null,
+            "requiredPurchaseQuantity": 1,
+            "requiredPurchaseValue": null,
+            "rollingEndDateNumber": 0,
+            "providerOfferCode": null,
+            "savingsValueStatement": "<span class=\"svsValue\">0,75</span> <span class=\"svsCurrencySymbol\">€</span>",
+            "savingsValueWatermark": null,
+            "siteExpiryOn": "2021-12-30T23:00:00.000Z",
+            "soldOut": false,
+            "startOn": "2021-11-17T23:00:00.000Z",
+            "successfulPrints": 0,
+            "templateFonts": null,
+            "valassisOfferId": 125946,
+            "value": 75,
+            "transactions": {
+                "serials": {
+                    "ean13": false,
+                    "custom": false
+                }
+            },
+            "offerDistributions": {
+                "offerDistribution": [
+                    {
+                        "gs1": "0200000000813",
+                        "offerDistributionType": "BarcodeSettlementOffer"
+                    },
+                    {
+                        "offerDistributionType": "Cashback",
+                        "payment": {
+                            "bankData": {
+                                "target": "bankData"
+                            },
+                            "address": {
+                                "target": "address"
+                            },
+                            "name": {
+                                "target": "name"
+                            },
+                            "purchasePrice": {
+                                "target": "purchasePrice",
+                                "type": "purchasePrice"
+                            },
+                            "comment": {
+                                "target": "comment",
+                                "type": "string"
+                            }
+                        }
+                    }
+                ]
+            },
+            "offerProductCategories": {
+                "offerProductCategory": [
+                    {
+                        "id": 68,
+                        "name": "DROGUERIA Y LIMPIEZA",
+                        "description": "",
+                        "parentid": 0
+                    }
+                ]
+            },
+            "products": [
+                "8410436331890",
+                "8410436331920"
+            ],
+            "limit": {
+                "global": {
+                    "quantity": 100000
+                },
+                "individual": {
+                    "quantity": 2
+                }
+            },
+            "digitalDistribution": true,
+            "couponsStat": {
+                "pending": 0,
+                "closed": 0,
+                "redeemed": 0,
+                "revoked": 0,
+                "incomplete": 0,
+                "inquired": 0,
+                "expired": 0
+            },
+            "redemptionPotentialValue": 0,
+            "state": "Active"
+        },
+        {
+            "offerScope": {
+                "scope": "National"
+            },
+            "additionalImageUrl": null,
+            "brand": {
+                "name": "VERNEL",
+                "id": 186117
+            },
+            "couponTemplate": null,
+            "coupons": {
+                "serials": {
+                    "custom": false
+                }
+            },
+            "created": "2021-11-18T16:57:51.000Z",
+            "currency": "EUR",
+            "customerCoBrandImage": null,
+            "discount": {
+                "percent": "",
+                "m": "",
+                "n": "",
+                "customSVS": "",
+                "maxTimes": ""
+            },
+            "displayName": "Ofertia Vernel concentrado",
+            "displayValue": "0,50 €",
+            "endOn": "2021-12-30T23:00:00.000Z",
+            "estimatedRedemptionRate": 0,
+            "globalLimit": 100000,
+            "gpc": {
+                "segment": "47000000",
+                "family": "47100000",
+                "class": "47101700",
+                "brick": "10000744",
+                "attributes": []
+            },
+            "imageUrl": "https://dev.valassis.eu/media/spain/Vernel/f9b4730798b37cd12c1613f6a87b03ab.png",
+            "imageUrlCanvas": null,
+            "imageUrlCoupon": null,
+            "imageUrlWallet": null,
+            "individualLimit": 5,
+            "lastModifiedOn": "2021-11-18T16:57:57.000Z",
+            "offerProvider": {
+                "name": "HENKEL IBERICA, S.A.",
+                "clientCode": "030",
+                "description": "030 - HENKEL IBERICA, S.A.",
+                "id": 3293
+            },
+            "pageImage": null,
+            "printProviderLogoImage": null,
+            "productInformation": null,
+            "purchaseDescription": "Ofertia Ofertia Vernel concentrado Cashback",
+            "questionnaire": {
+                "consumerID": {},
+                "proofs_of_purchase": {},
+                "duplicateChecks": [
+                    "receiptID",
+                    "receiptImage"
+                ]
+            },
+            "remoteOfferId": "65875",
+            "renewableLimit": null,
+            "requiredPurchaseQuantity": 1,
+            "requiredPurchaseValue": null,
+            "rollingEndDateNumber": 0,
+            "providerOfferCode": null,
+            "savingsValueStatement": "<span class=\"svsValue\">0,50</span> <span class=\"svsCurrencySymbol\">€</span>",
+            "savingsValueWatermark": null,
+            "siteExpiryOn": "2021-12-30T23:00:00.000Z",
+            "soldOut": false,
+            "startOn": "2021-11-17T23:00:00.000Z",
+            "successfulPrints": 0,
+            "templateFonts": null,
+            "valassisOfferId": 125960,
+            "value": 50,
+            "transactions": {
+                "serials": {
+                    "ean13": false,
+                    "custom": false
+                }
+            },
+            "offerDistributions": {
+                "offerDistribution": [
+                    {
+                        "gs1": "0200000000820",
+                        "offerDistributionType": "BarcodeSettlementOffer"
+                    },
+                    {
+                        "offerDistributionType": "Cashback",
+                        "payment": {
+                            "bankData": {
+                                "target": "bankData"
+                            },
+                            "address": {
+                                "target": "address"
+                            },
+                            "name": {
+                                "target": "name"
+                            },
+                            "purchasePrice": {
+                                "target": "purchasePrice",
+                                "type": "purchasePrice"
+                            },
+                            "comment": {
+                                "target": "comment",
+                                "type": "string"
+                            }
+                        }
+                    }
+                ]
+            },
+            "offerProductCategories": {
+                "offerProductCategory": [
+                    {
+                        "id": 68,
+                        "name": "DROGUERIA Y LIMPIEZA",
+                        "description": "",
+                        "parentid": 0
+                    }
+                ]
+            },
+            "products": [
+                "8410436331890",
+                "8410436331920"
+            ],
+            "limit": {
+                "global": {
+                    "quantity": 100000
+                },
+                "individual": {
+                    "quantity": 5
+                }
+            },
+            "digitalDistribution": true,
+            "couponsStat": {
+                "pending": 0,
+                "closed": 0,
+                "redeemed": 0,
+                "revoked": 0,
+                "incomplete": 0,
+                "inquired": 0,
+                "expired": 0
+            },
+            "redemptionPotentialValue": 0,
+            "state": "Active"
+        },
+        {
+            "offerScope": {
+                "scope": "National"
+            },
+            "additionalImageUrl": null,
+            "brand": {
+                "name": "BALLERINA",
+                "id": 185920
+            },
+            "couponTemplate": null,
+            "coupons": {
+                "serials": {
+                    "custom": false
+                }
+            },
+            "created": "2021-11-18T17:01:11.000Z",
+            "currency": "EUR",
+            "customerCoBrandImage": null,
+            "discount": {
+                "percent": "",
+                "m": "",
+                "n": "",
+                "customSVS": "",
+                "maxTimes": ""
+            },
+            "displayName": "Ofertia Ballerina",
+            "displayValue": "1,00 €",
+            "endOn": "2021-12-30T23:00:00.000Z",
+            "estimatedRedemptionRate": 0,
+            "globalLimit": 100000,
+            "gpc": {
+                "segment": "47000000",
+                "family": "47100000",
+                "class": "47101600",
+                "brick": "10000405",
+                "attributes": []
+            },
+            "imageUrl": "https://dev.valassis.eu/media/spain/Ballerina/51d4bdb97d74f7dca1a90571d01f683b.png",
+            "imageUrlCanvas": null,
+            "imageUrlCoupon": null,
+            "imageUrlWallet": null,
+            "individualLimit": 5,
+            "lastModifiedOn": "2021-11-18T17:02:28.000Z",
+            "offerProvider": {
+                "name": "HENKEL IBERICA, S.A.",
+                "clientCode": "030",
+                "description": "030 - HENKEL IBERICA, S.A.",
+                "id": 3293
+            },
+            "pageImage": null,
+            "printProviderLogoImage": null,
+            "productInformation": null,
+            "purchaseDescription": "Ofertia Ofertia Ballerina Cashback",
+            "questionnaire": {
+                "consumerID": {},
+                "proofs_of_purchase": {},
+                "duplicateChecks": [
+                    "receiptID",
+                    "receiptImage"
+                ]
+            },
+            "remoteOfferId": "65881",
+            "renewableLimit": null,
+            "requiredPurchaseQuantity": 1,
+            "requiredPurchaseValue": null,
+            "rollingEndDateNumber": 0,
+            "providerOfferCode": null,
+            "savingsValueStatement": "<span class=\"svsValue\">1,00</span> <span class=\"svsCurrencySymbol\">€</span>",
+            "savingsValueWatermark": null,
+            "siteExpiryOn": "2021-12-30T23:00:00.000Z",
+            "soldOut": false,
+            "startOn": "2021-11-17T23:00:00.000Z",
+            "successfulPrints": 0,
+            "templateFonts": null,
+            "valassisOfferId": 125962,
+            "value": 100,
+            "transactions": {
+                "serials": {
+                    "ean13": false,
+                    "custom": false
+                }
+            },
+            "offerDistributions": {
+                "offerDistribution": [
+                    {
+                        "gs1": "0200000000837",
+                        "offerDistributionType": "BarcodeSettlementOffer"
+                    },
+                    {
+                        "offerDistributionType": "Cashback",
+                        "payment": {
+                            "bankData": {
+                                "target": "bankData"
+                            },
+                            "address": {
+                                "target": "address"
+                            },
+                            "name": {
+                                "target": "name"
+                            },
+                            "purchasePrice": {
+                                "target": "purchasePrice",
+                                "type": "purchasePrice"
+                            },
+                            "comment": {
+                                "target": "comment",
+                                "type": "string"
+                            }
+                        }
+                    }
+                ]
+            },
+            "offerProductCategories": {
+                "offerProductCategory": [
+                    {
+                        "id": 68,
+                        "name": "DROGUERIA Y LIMPIEZA",
+                        "description": "",
+                        "parentid": 0
+                    }
+                ]
+            },
+            "products": [
+                "8006320077892",
+                "8006320085361",
+                "8410436288590",
+                "8410436288699",
+                "8410436331890",
+                "8410436331920",
+                "8411324023408",
+                "8411324025402",
+                "8411324028106",
+                "8411324028502",
+                "8436032710037",
+                "8436032710044",
+                "8436032710051",
+                "8436032710075",
+                "8436032710082",
+                "8436032710099",
+                "8436032710105",
+                "8436032710150",
+                "8436032710174",
+                "8436032710181",
+                "8436032710198",
+                "8436032710259",
+                "8436032710266",
+                "8436032710389",
+                "8436032710396",
+                "8436032710419",
+                "8436032710426",
+                "8436032710440",
+                "8436032710457",
+                "8436032710655",
+                "8436032711386",
+                "8436032712437",
+                "8436032712666"
+            ],
+            "limit": {
+                "global": {
+                    "quantity": 100000
+                },
+                "individual": {
+                    "quantity": 5
+                }
+            },
+            "digitalDistribution": true,
+            "couponsStat": {
+                "pending": 0,
+                "closed": 0,
+                "redeemed": 0,
+                "revoked": 0,
+                "incomplete": 0,
+                "inquired": 0,
+                "expired": 0
+            },
+            "redemptionPotentialValue": 0,
+            "state": "Active"
+        },
+        {
+            "offerScope": {
+                "scope": "National"
+            },
+            "additionalImageUrl": null,
+            "brand": {
+                "name": "NESTLÉ",
+                "id": 186074
+            },
+            "couponTemplate": null,
+            "coupons": {
+                "serials": {
+                    "custom": false
+                }
+            },
+            "created": "2021-11-18T17:13:44.000Z",
+            "currency": "EUR",
+            "customerCoBrandImage": null,
+            "discount": {
+                "percent": "",
+                "m": "",
+                "n": "",
+                "customSVS": "",
+                "maxTimes": ""
+            },
+            "displayName": "Ofertia La Lechera Leche Condensada",
+            "displayValue": "0,50 €",
+            "endOn": "2021-12-30T23:00:00.000Z",
+            "estimatedRedemptionRate": 0,
+            "globalLimit": 100000,
+            "gpc": {
+                "segment": "50000000",
+                "family": "50130000",
+                "class": "50132000",
+                "brick": "10000190",
+                "attributes": []
+            },
+            "imageUrl": "https://dev.valassis.eu/media/spain/La%20Lechera%20Leche%20Condensada/fd4fd2aaec5b9069a0a2e9dbc2ede1b3.png",
+            "imageUrlCanvas": null,
+            "imageUrlCoupon": null,
+            "imageUrlWallet": null,
+            "individualLimit": 2,
+            "lastModifiedOn": "2021-11-18T17:14:12.000Z",
+            "offerProvider": {
+                "name": "NESTLE ESPAÑA, S.A.",
+                "clientCode": "099",
+                "description": "099 - NESTLE ESPAÑA, S.A.",
+                "id": 2881
+            },
+            "pageImage": null,
+            "printProviderLogoImage": null,
+            "productInformation": null,
+            "purchaseDescription": "Ofertia Ofertia La Lechera Leche condensada Cashback",
+            "questionnaire": {
+                "consumerID": {},
+                "proofs_of_purchase": {},
+                "duplicateChecks": [
+                    "receiptID",
+                    "receiptImage"
+                ]
+            },
+            "remoteOfferId": "65625",
+            "renewableLimit": null,
+            "requiredPurchaseQuantity": 1,
+            "requiredPurchaseValue": null,
+            "rollingEndDateNumber": 0,
+            "providerOfferCode": null,
+            "savingsValueStatement": "<span class=\"svsValue\">0,50</span> <span class=\"svsCurrencySymbol\">€</span>",
+            "savingsValueWatermark": null,
+            "siteExpiryOn": "2021-12-30T23:00:00.000Z",
+            "soldOut": false,
+            "startOn": "2021-11-17T23:00:00.000Z",
+            "successfulPrints": 0,
+            "templateFonts": null,
+            "valassisOfferId": 125964,
+            "value": 50,
+            "transactions": {
+                "serials": {
+                    "ean13": false,
+                    "custom": false
+                }
+            },
+            "offerDistributions": {
+                "offerDistribution": [
+                    {
+                        "gs1": "0200000000844",
+                        "offerDistributionType": "BarcodeSettlementOffer"
+                    },
+                    {
+                        "offerDistributionType": "Cashback",
+                        "payment": {
+                            "bankData": {
+                                "target": "bankData"
+                            },
+                            "address": {
+                                "target": "address"
+                            },
+                            "name": {
+                                "target": "name"
+                            },
+                            "purchasePrice": {
+                                "target": "purchasePrice",
+                                "type": "purchasePrice"
+                            },
+                            "comment": {
+                                "target": "comment",
+                                "type": "string"
+                            }
+                        }
+                    }
+                ]
+            },
+            "offerProductCategories": {
+                "offerProductCategory": [
+                    {
+                        "id": 187202,
+                        "name": "ALIMENTACIÓN SECA"
+                    }
+                ]
+            },
+            "products": [
+                "8410100000169",
+                "8410436331890",
+                "8410436331920"
+            ],
+            "limit": {
+                "global": {
+                    "quantity": 100000
+                },
+                "individual": {
+                    "quantity": 2
+                }
+            },
+            "digitalDistribution": true,
+            "couponsStat": {
+                "pending": 0,
+                "closed": 0,
+                "redeemed": 0,
+                "revoked": 0,
+                "incomplete": 0,
+                "inquired": 0,
+                "expired": 0
+            },
+            "redemptionPotentialValue": 0,
+            "state": "Active"
+        },
+        {
+            "offerScope": {
+                "scope": "National"
+            },
+            "additionalImageUrl": null,
+            "brand": {
+                "name": "BUITONI MASAS",
+                "id": 185923
+            },
+            "couponTemplate": null,
+            "coupons": {
+                "serials": {
+                    "custom": false
+                }
+            },
+            "created": "2021-11-18T17:19:36.000Z",
+            "currency": "EUR",
+            "customerCoBrandImage": null,
+            "discount": {
+                "percent": "",
+                "m": "",
+                "n": "",
+                "customSVS": "",
+                "maxTimes": ""
+            },
+            "displayName": "Ofertia Buitoni Masas",
+            "displayValue": "0,50 €",
+            "endOn": "2021-12-30T23:00:00.000Z",
+            "estimatedRedemptionRate": 0,
+            "globalLimit": 100000,
+            "gpc": {
+                "segment": "50000000",
+                "family": "50180000",
+                "class": "50182200",
+                "brick": "10000249",
+                "attributes": []
+            },
+            "imageUrl": "https://dev.valassis.eu/media/spain/Buitoni%20Masas/126df1a1462c5add3417b30d5bfec55c.png",
+            "imageUrlCanvas": null,
+            "imageUrlCoupon": null,
+            "imageUrlWallet": null,
+            "individualLimit": 2,
+            "lastModifiedOn": "2021-11-18T17:21:00.000Z",
+            "offerProvider": {
+                "name": "NESTLE ESPAÑA, S.A.",
+                "clientCode": "099",
+                "description": "099 - NESTLE ESPAÑA, S.A.",
+                "id": 2881
+            },
+            "pageImage": null,
+            "printProviderLogoImage": null,
+            "productInformation": null,
+            "purchaseDescription": "Ofertia Ofertia Buitoni Masas Cashback",
+            "questionnaire": {
+                "consumerID": {},
+                "proofs_of_purchase": {},
+                "duplicateChecks": [
+                    "receiptID",
+                    "receiptImage"
+                ]
+            },
+            "remoteOfferId": "65497",
+            "renewableLimit": null,
+            "requiredPurchaseQuantity": 1,
+            "requiredPurchaseValue": null,
+            "rollingEndDateNumber": 0,
+            "providerOfferCode": null,
+            "savingsValueStatement": "<span class=\"svsValue\">0,50</span> <span class=\"svsCurrencySymbol\">€</span>",
+            "savingsValueWatermark": null,
+            "siteExpiryOn": "2021-12-30T23:00:00.000Z",
+            "soldOut": false,
+            "startOn": "2021-11-17T23:00:00.000Z",
+            "successfulPrints": 0,
+            "templateFonts": null,
+            "valassisOfferId": 125966,
+            "value": 50,
+            "transactions": {
+                "serials": {
+                    "ean13": false,
+                    "custom": false
+                }
+            },
+            "offerDistributions": {
+                "offerDistribution": [
+                    {
+                        "gs1": "0200000000851",
+                        "offerDistributionType": "BarcodeSettlementOffer"
+                    },
+                    {
+                        "offerDistributionType": "Cashback",
+                        "payment": {
+                            "bankData": {
+                                "target": "bankData"
+                            },
+                            "address": {
+                                "target": "address"
+                            },
+                            "name": {
+                                "target": "name"
+                            },
+                            "purchasePrice": {
+                                "target": "purchasePrice",
+                                "type": "purchasePrice"
+                            },
+                            "comment": {
+                                "target": "comment",
+                                "type": "string"
+                            }
+                        }
+                    }
+                ]
+            },
+            "offerProductCategories": {
+                "offerProductCategory": [
+                    {
+                        "id": 187202,
+                        "name": "ALIMENTACIÓN SECA"
+                    }
+                ]
+            },
+            "products": [
+                "7613034521750"
+            ],
+            "limit": {
+                "global": {
+                    "quantity": 100000
+                },
+                "individual": {
+                    "quantity": 2
+                }
+            },
+            "digitalDistribution": true,
+            "couponsStat": {
+                "pending": 0,
+                "closed": 0,
+                "redeemed": 0,
+                "revoked": 0,
+                "incomplete": 0,
+                "inquired": 0,
+                "expired": 0
+            },
+            "redemptionPotentialValue": 0,
+            "state": "Active"
+        }
+    ]
+}
