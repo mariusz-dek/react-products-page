@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-Procuct parser from json to listing page done in react.
+Simple procuct parser from json to listing page done in react.
+
+![alt text](Screenshot1.png)
 
 ## Available Scripts
 
